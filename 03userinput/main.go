@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	welcome := "Welcome Bro"
+	welcome := "Welcome"
 	fmt.Println(welcome)
 
 	 reader := bufio.NewReader(os.Stdin)
